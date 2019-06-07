@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.testando.uaa",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.testando.uaa",
+    "packageFolder": "com/testando/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTA5NzE1ZDBmZmRlYWFjZTQ1OTg4M2MyYTdjN2Y0ODZjMzI3YTM1MDQ3YTdlYmY2MzEwNTljM2IwNWE0NTFjNzUwNzFkOWM0YWZkNDlmMjZjNzk2ZDJlOTEwNjlmM2NiMWRkZjk4ZjI4ZTNlZTE2NTY4OTU5NGY4OTc2N2FlNzY=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ],
+    "skipClient": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.testando.blog",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "blog",
+    "packageName": "com.testando.blog",
+    "packageFolder": "com/testando/blog",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWQ3YzQzMzM0MTg4OTMzYjAwNjQ1ZTY0YjUyODY4NDQxZmNhNTVhZDM0NTU5NzU1NjA5MmQ5N2QxOTMzYzAyZDBhMzU3M2Y2NzgwOTBmMTFhYmJhY2FjZDNiYjgyNjgzMDVjMTIzZDFiNzlmYTc1NGJiOTJmOWIyMzQ5MDI2ZTg=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

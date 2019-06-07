@@ -1,0 +1,29 @@
+{
+    "gatewayApp": {
+        "blogPost": {
+            "home": {
+                "title": "Posts",
+                "createLabel": "Criar novo Post",
+                "createOrEditLabel": "Criar ou editar Post"
+            },
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Post {{ id }}?"
+            },
+            "detail": {
+                "title": "Post"
+            },
+            "title": "Title",
+            "content": "Content",
+            "date": "Date",
+            "blog": "Blog",
+            "tag": "Tag"
+        }
+    },
+    "blogApp": {
+        "blogPost": {
+            "created": "Um novo Post foi criado com o identificador {{ param }}",
+            "updated": "Um Post foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Post foi deletado com o identificador {{ param }}"
+        }
+    }
+}
